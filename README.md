@@ -1,4 +1,4 @@
-![octocat_fundamentos_python_dsa](https://github.com/user-attachments/assets/1a491ae2-2025-4af9-b9d3-1c5f54a18e8d)
+![octocat_fundamentos_python_dsa](https://github.com/user-attachments/assets/aa764673-3ddf-4eb6-b4dd-dd550b0e8ae7)
 
 <h1 align="center">Fundamentos de Linguagem Python Para Análise de Dados e Data Science</h1>
 
