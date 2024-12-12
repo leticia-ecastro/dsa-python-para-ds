@@ -5,9 +5,10 @@
 <p align="justify">Este repositório contém exercícios e arquivos de estudo referentes ao curso <em>Fundamentos de Linguagem Python Para Análise de Dados e Data Science</em>, ministrado pela Data Science Academy.<br/>
   
 > [!NOTE]
-> Repositório em atualização!<br/>
+> <strong>Repositório em atualização!</strong><br/>
 
 <h2>Tópicos abordados até o momento:</h2>
+- Lógica de Programação;<br/>
 - Números;<br/>
 - Variáveis;<br/>
 - Strings;<br/>
